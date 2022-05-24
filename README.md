@@ -1,1 +1,1 @@
-Zero_day github on vagrant ubuntu
+Zero_day github on vagrant@ubuntu-focal
